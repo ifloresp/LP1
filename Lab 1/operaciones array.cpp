@@ -10,6 +10,7 @@ int main(){
 	cin>>first;
 	cout<<"ingrese el segundo valor";
 	cin>>second;
+	cout<<prom<<", "<<first<<", "<<second<<"\n";
 	if(prom=="*"){ cout<<first*second;
 	}
 	if(prom=="/"){cout<<first/second;
